@@ -38,6 +38,9 @@
 
 #### Because I don't like having many small projects on my GitHub, I put together some of the same content
 
+<img src="./README/New.gif"> Public in the last 30 days
+🔒 It's private now, but may be public in the future
+
 ### CJCU_Course
 * The content of my courses at CJCU, including exams, reports and assignments, some of which are not available to the public because of fairness concerns.
 * The following is a list of content that is may be publicly available in currently or the future, but it is not guaranteed to be all of it.
