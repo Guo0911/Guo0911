@@ -4,9 +4,19 @@
   Welcome to my GitHub😉
 </h1>
 
+<div align="center">
+  
+| <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api?username=Guo0911&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=prs,issues" alt="My GitHub stats" height="195"></a> | <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo0911&layout=compact&langs_count=8&theme=radical&count_private=true" alt="My language used" height="195"></a> |
+| ------------- | ------------- |
+</div>
+
+
+
+
+📚 Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
+```
 Python     50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.30 %
 Markdown   38 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.43 %
 Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.27 %
@@ -14,11 +24,6 @@ Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  
-| <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api?username=Guo0911&show_icons=true&theme=radical" alt="My GitHub stats"></a> | <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo0911&layout=compact&langs_count=8&theme=radical" alt="My language used"></a> |
-| ------------- | ------------- |
-</div>
 
 ***
 
