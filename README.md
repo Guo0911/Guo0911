@@ -5,9 +5,11 @@
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guo0911&show_icons=true&theme=radical" alt="My GitHub stats">
-</div>
+  
+| <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api?username=Guo0911&show_icons=true&theme=radical" alt="My GitHub stats"></a> | <a href="https://github.com/Guo0911"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo0911&layout=compact&langs_count=8&theme=radical" alt="My language used"></a> |
+| ------------- | ------------- |
 
+</div>
 
 ***
 
