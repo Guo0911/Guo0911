@@ -42,14 +42,14 @@
 * The content of my courses at CJCU, including exams, reports and assignments, some of which are not available to the public because of fairness concerns.
 * The following is a list of content that is may be publicly available in currently or the future, but it is not guaranteed to be all of it.
 1. 資料結構(Data structure), 110-1 🔒
-2. 物件導向程式設計(Object-oriented programming, OOP), 110-1 <img src="./README/New.gif" align="top">
+2. [物件導向程式設計(Object-oriented programming, OOP)](https://github.com/Guo0911/CJCU_Course/tree/main/110-1/%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88), 110-1 <img src="./README/New.gif" align="top">
 3. 物聯網程式設計(Internet of things programming, IoT programming), 110-1 🔒
-4. 資料結構應用(Data structure applications), 110-2 <img src="./README/New.gif" align="top">
+4. [資料結構應用(Data structure applications)](https://github.com/Guo0911/CJCU_Course/tree/main/110-2/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E6%87%89%E7%94%A8), 110-2 <img src="./README/New.gif" align="top">
 5. 演算法(Algorithm), 110-2 🔒
 6. 嵌入式系統(Embedded system), 110-2 🔒
 7. 行動裝置程式設計(Programming for Mobile Devices), 110-2 🔒
 8. 大數據資料分析(Big Data Analysis), 111-1 🔒
-9. 人工智慧實務(Artificial Intellegent with Practice), 111-1 <img src="./README/New.gif" align="top">
+9. [人工智慧實務(Artificial Intellegent with Practice)](https://github.com/Guo0911/CJCU_Course/tree/main/111-1/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%AF%A6%E5%8B%99), 111-1 <img src="./README/New.gif" align="top">
 10. 系統程式(System program), 111-1 🔒
 
 ### CJCU_Club
