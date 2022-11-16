@@ -28,7 +28,7 @@
 
 ## Side project
 
-### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif">
+### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif" align="top">
 
 ### QA bot for medical consultation 🔒
 
