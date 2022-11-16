@@ -28,13 +28,13 @@
 
 ## Side project
 
-1. ### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif">
+### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif">
 
-2. ### QA bot for medical consultation 🔒
+### QA bot for medical consultation 🔒
 
 ***
 
-### **GitHub is updating**
+<h2 align="center">GitHub is updating</h2>
 
-## **Coming soon...**
+<h2 align="center">Coming soon...</h2>
 
