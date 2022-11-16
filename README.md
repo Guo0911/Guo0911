@@ -60,7 +60,7 @@
 * Courses I have taught at Software development research club.
 1. [網路爬蟲經驗分享(Web crawler)](https://github.com/Guo0911/CJCU_Club/tree/main/110-2/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB), 110-2
 2. [網路爬蟲經驗分享(Web crawler)](https://github.com/Guo0911/CJCU_Club/tree/main/111-1/%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB), 111-1 <img src="./README/New.gif" align="top">
-3. 自然語言處理(Natural Language Processing), 111-2 (Tentative ✔️)
+3. 自然語言處理(Natural Language Processing), 111-2 🔒
 
 
 ***
