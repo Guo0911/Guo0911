@@ -39,6 +39,7 @@
 #### Because I don't like having many small projects on my GitHub, I put together some of the same content
 
 <img src="./README/New.gif"> Public in the last 30 days
+<br>
 🔒 It's private now, but may be public in the future
 
 ### CJCU_Course
