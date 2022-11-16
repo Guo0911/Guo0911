@@ -1,6 +1,13 @@
-# **Welcome**
+<h1 align="center">Hello👋 Welcome to my GitHub😉</h1>
 
-<div align="center"><img src="./README/Hello.gif"></div>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guo0911&show_icons=true&theme=radical" alt="My GitHub stats">
+</div>
+
 
 ***
 
