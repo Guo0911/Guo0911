@@ -26,7 +26,7 @@
 
 ***
 
-## Side project
+## Side project<img src="./README/Star.gif">
 
 ### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif" align="top">
 
