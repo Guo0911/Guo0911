@@ -1,8 +1,9 @@
-<h1 align="center">
-  Hello👋 I'm Jhih-Rong Guo
-  <br>
-  Welcome to my GitHub😉
-</h1>
+<div  align="center">
+  <a href="https://github.com/Guo0911">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=62F71F&center=true&width=435&lines=Hello%F0%9F%91%8B+I'm+Jhih-Rong+Guo;Welcome+to+my+GitHub%F0%9F%98%8E" alt="Typing SVG"/>
+  </a>
+</div>
+
 
 <div align="center">
   
