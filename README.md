@@ -43,7 +43,7 @@ Batchfile    2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## Side project<img src="./README/Star.gif">
 
-### [CJCU course search](https://rcai.cjcu.edu.tw/course/) <img src="./README/New.gif" align="top">
+### [CJCU course search](https://gjr.ddns.net/website/cjcu_course/) <img src="./README/New.gif" align="top">
 
 ### QA bot for medical consultation 🔒
 
